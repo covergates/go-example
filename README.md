@@ -57,6 +57,10 @@ You could find the **Report ID** which is used to upload report as below image s
 
 ![setting](https://github.com/covergates/go-example/blob/master/assets/setting.png?raw=true)
 
+Update the filter setting as below and press **SAVE**
+
+![filter](https://github.com/covergates/go-example/blob/master/assets/filter.png?raw=true)
+
 ## Upload Report
 
 Go back to your `go-example` workspace, run:
