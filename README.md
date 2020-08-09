@@ -9,7 +9,7 @@ Unzip the binaries to your `/path/to/bin`.
 
 Please fork the repository at first by click the **Fork** on the top-right of the repository page.
 
-![fork]()
+![fork](https://raw.githubusercontent.com/covergates/go-example/master/assets/fork.png)
 
 After that, clone the repository to your workspace with:
 
@@ -47,7 +47,7 @@ go-example/main.go:9.13,11.2 1 0
 Before uploading report, you need to activate repository on **Covergates**.
 Visit [https://covergates.com/repo](https://covergates.com/repo) and click **ACTIVATE** right to `go-example` repository.
 
-![repository]()
+![repository](https://raw.githubusercontent.com/covergates/go-example/master/assets/repository.png)
 
 > :information_desk_person: You require login **Covergate** with your GitHub Account to continue
 
@@ -55,7 +55,7 @@ Visit repository setting page [https://covergates.com/report/github/your-account
 
 You could find the **Report ID** which is used to upload report as below image shown:
 
-![setting]()
+![setting](https://github.com/covergates/go-example/blob/master/assets/setting.png?raw=true)
 
 ## Upload Report
 
